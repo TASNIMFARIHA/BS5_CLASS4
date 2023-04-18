@@ -1,0 +1,11 @@
+
+.row{
+    margin-bottom:20px ;
+}
+
+.row div div{
+background-color: coral;
+border: 1px solid green;
+padding: 5px;
+text-align: center;
+}
